@@ -1,6 +1,6 @@
-# Contributing to Sangsue
+# Contributing to SangSue
 
-Welcome to Sangsue! We appreciate your interest in contributing to our open-source project. Your contributions help make our project better and more inclusive. Before you get started, please take a moment to review our contribution guidelines.
+Welcome to SangSue! We appreciate your interest in contributing to our open-source project. Your contributions help make our project better and more inclusive. Before you get started, please take a moment to review our contribution guidelines.
 
 ## Types of Contributions We Welcome
 
@@ -14,7 +14,7 @@ Welcome to Sangsue! We appreciate your interest in contributing to our open-sour
 
 ## Getting Started
 
-To contribute to SangSUE, follow these steps:
+To contribute to SangSue, follow these steps:
 
 1. Fork the repository to your GitHub account.
 2. Clone your forked repository to your local machine.
@@ -51,7 +51,7 @@ We enforce a Code of Conduct to ensure a welcoming and inclusive environment for
 
 Our project maintainers are committed to responding promptly to issues, pull requests, and inquiries from contributors. We appreciate your time and effort in making this project better.
 
-Thank you for contributing to Sangsue!
+Thank you for contributing to SangSue!
 
 ## Attribution
 
