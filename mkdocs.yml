@@ -1,14 +1,48 @@
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 
 site_name: Sangsue
-repo_url: https://github.com/denisakp/sangsue
+site_author: Denis AKPAGNONITE
+site_description: Sangsue is a Python-based web scraping tool for website traversal, link discovery, and data extraction within a domain. Explore websites, map structures, extract valuable data, and classify web pages.
+site_url: https://denisakp.github.io/sangsue
+
 repo_name: denisakp/sangsue
+repo_url: https://github.com/denisakp/sangsue
+
 theme:
   name: material
   features:
     - navigation.tracking
     - navigation.path
-    -
-
+  language: en
   icon:
     repo: fontawesome/brands/github
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/denisakp
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/denis_Akp
+
+copyright: |
+   &copy; 2023 <a href="https://github.com/denisakp"  target="_blank" rel="noopener">Denis AKPAGNONITE</a>
