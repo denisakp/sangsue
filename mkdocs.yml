@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
+
+site_name: Sangsue
+repo_url: https://github.com/denisakp/sangsue
+repo_name: denisakp/sangsue
+theme:
+  name: material
+  features:
+    - navigation.tracking
+    - navigation.path
+    -
+
+  icon:
+    repo: fontawesome/brands/github
